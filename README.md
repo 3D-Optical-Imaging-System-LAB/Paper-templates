@@ -16,7 +16,7 @@ Paper-templates/
 │
 ├── Journals/
 │   ├── IEEE/
-│   │   └── Access/
+│   │   └── IEEE_Access_LaTeX/
 │   │   
 │   └── MDPI/
 │    
