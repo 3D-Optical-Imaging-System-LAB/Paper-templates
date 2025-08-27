@@ -10,16 +10,17 @@ Paper-templates/
 ├── README.md
 │
 ├── Conferences/
-│   ├── IEEE Conference Template
-│   ├── ICCAS Conference Template
-│   └── SPIE Conference Template
+│   ├── IEEE Conference Template/
+│   ├── ICCAS Conference Template/
+│   └── SPIE Conference Template/
 │
 ├── Journals/
 │   ├── IEEE/
-│   │   └── Access
-│   └── MDPI
+│   │   └── Access/
+│   │   
+│   └── MDPI/
 │    
-└── Graduation thesis
+└── Graduation thesis/
 
 
 ```
