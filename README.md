@@ -23,7 +23,7 @@ Paper-templates/
 
 
 ```
-If you want to use the "xx.bib" file, you must block or delete the codes from `\begin{thebibliography}` - `\end{thebibliography}`.
+If you want to use the "xx.bib" file, you must block or delete the codes from `\begin{thebibliography}` - `\end{thebibliography}`.<br/>
 And add the `\bibliographystyle{IEEEtran}` and `\bibliography{xx}` to apply the ".bib" file.
 
 
