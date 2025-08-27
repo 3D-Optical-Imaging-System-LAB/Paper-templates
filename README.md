@@ -17,7 +17,6 @@ Paper-templates/
 ├── Journals/
 │   ├── IEEE/
 │   │   └── IEEE_Access_LaTeX/
-│   │   
 │   └── MDPI/
 │    
 └── Graduation thesis/
