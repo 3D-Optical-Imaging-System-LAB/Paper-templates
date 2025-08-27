@@ -8,12 +8,18 @@ This repository structure consists of that
 ```
 Paper-templates/
 ├── README.md
+│
 ├── Conferences/
 │   ├── IEEE Conference Template
 │   ├── ICCAS Conference Template
 │   └── SPIE Conference Template
+│
 ├── Journals/
-└── Graduation thesis/
+│   ├── IEEE/
+│   │   └── Access
+│   └── MDPI
+│    
+└── Graduation thesis
 
 
 ```
